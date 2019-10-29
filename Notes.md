@@ -23,6 +23,9 @@
 - Temperature (Later)
 - Humidity (Later)
 - Wind Speed (Later)
+- Orientation (Later)
+- Direction (Later)
+- Play Stats (Later)
 
 
 
