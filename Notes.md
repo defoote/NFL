@@ -35,6 +35,7 @@
 - Location (Later)
 - Stadium Type
   - simplify to indoors,outdoors,mixed
+  - means losing 3000 nan rows
 - Turf
   - simplify categories to synthetic,real, etc.
 - Game Weather
