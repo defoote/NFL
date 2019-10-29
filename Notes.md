@@ -36,6 +36,7 @@
   - simplify categories to synthetic,real, etc.
 - Game Weather
   - simplify categories to rain,sun,snow, etc.
+  - Weather data is missing for many games, may need to exclude those games or weather parameter
 - O Formation (later)
   - look into what each formation is
 - O personnel (later)
